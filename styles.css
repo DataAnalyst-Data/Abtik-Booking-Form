@@ -3,7 +3,10 @@ body {
   background-color: #f8f9fa;
 }
 .hero.is-primary {
-  background: linear-gradient(45deg, #4a90e2, #50c6e1);
+  background: blue;
+}
+.hero-body {
+  background: #0056b3;
 }
 .input,
 .textarea,
